@@ -51,3 +51,17 @@ library-management-system/
 │       └── services/
 │
 └── README.md
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Library Dashboard](screenshots/Screenshot%202026-10-04%20002244.png)
+
+### Books Management
+
+![Books Management](screenshots/Screenshot%202026-10-04%20001528.png)
+
+### Members Management
+
+![Members Management](screenshots/Screenshot%202026-10-04%20001542.png)
